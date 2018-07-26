@@ -17,6 +17,7 @@
 		<module>../blog-ws</module>
 		<module>../blog-circle</module>
 		<module>../blog-base</module>
+		<module>../blog-login</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
